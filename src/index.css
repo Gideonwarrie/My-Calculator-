@@ -53,10 +53,10 @@ body {
 }
 
 .equals {
-  background: green;
+  background: blue;
   grid-column: 3/5;
 }
 
 .opt {
-  background: #f79505;
+  background: gray;
 }
